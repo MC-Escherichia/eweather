@@ -1,0 +1,396 @@
+
+{
+  "response": {
+  "version":"0.1",
+  "termsofService":"http://www.wunderground.com/weather/api/d/terms.html",
+  "features": {
+  "forecast": 1
+  }
+	}
+		,
+	"forecast":{
+		"txt_forecast": {
+		"date":"8:57 PM EST",
+		"forecastday": [
+		{
+		"period":0,
+		"icon":"partlycloudy",
+		"icon_url":"http://icons.wxug.com/i/c/k/partlycloudy.gif",
+		"title":"Wednesday",
+		"fcttext":"Clear and windy. Lows overnight in the low 30s.",
+		"fcttext_metric":"Mainly clear and windy. Low -1C.",
+		"pop":"0"
+		}
+		,
+		{
+		"period":1,
+		"icon":"nt_partlycloudy",
+		"icon_url":"http://icons.wxug.com/i/c/k/nt_partlycloudy.gif",
+		"title":"Wednesday Night",
+		"fcttext":"Clear and windy. Low near 30F. Winds W at 20 to 30 mph.",
+		"fcttext_metric":"Windy with clear skies. Low -1C. Winds W at 30 to 50 km/h.",
+		"pop":"0"
+		}
+		,
+		{
+		"period":2,
+		"icon":"partlycloudy",
+		"icon_url":"http://icons.wxug.com/i/c/k/partlycloudy.gif",
+		"title":"Thursday",
+		"fcttext":"Partly cloudy skies in the morning will give way to cloudy skies during the afternoon. High around 35F. Winds W at 10 to 20 mph.",
+		"fcttext_metric":"Intervals of clouds and sunshine in the morning with more clouds for later in the day. High 2C. Winds W at 15 to 30 km/h.",
+		"pop":"0"
+		}
+		,
+		{
+		"period":3,
+		"icon":"nt_snow",
+		"icon_url":"http://icons.wxug.com/i/c/k/nt_snow.gif",
+		"title":"Thursday Night",
+		"fcttext":"Occasional snow showers. Low 31F. Winds W at 10 to 15 mph. Chance of snow 60%. About one inch of snow expected.",
+		"fcttext_metric":"Occasional snow showers. Low near 0C. Winds W at 15 to 25 km/h. Chance of snow 60%. 2-3cm of snow expected.",
+		"pop":"60"
+		}
+		,
+		{
+		"period":4,
+		"icon":"partlycloudy",
+		"icon_url":"http://icons.wxug.com/i/c/k/partlycloudy.gif",
+		"title":"Friday",
+		"fcttext":"Cloudy skies early will become partly cloudy later in the day. A few flurries or snow showers possible. Temps nearly steady in the mid 30s. Winds NNW at 10 to 15 mph.",
+		"fcttext_metric":"Cloudy skies early will become partly cloudy later in the day. A few flurries or snow showers possible. High 2C. Winds NNW at 15 to 25 km/h.",
+		"pop":"20"
+		}
+		,
+		{
+		"period":5,
+		"icon":"nt_partlycloudy",
+		"icon_url":"http://icons.wxug.com/i/c/k/nt_partlycloudy.gif",
+		"title":"Friday Night",
+		"fcttext":"Partly cloudy. Low near 25F. Winds NNW at 10 to 15 mph.",
+		"fcttext_metric":"A few clouds. Low -4C. Winds NNW at 15 to 25 km/h.",
+		"pop":"0"
+		}
+		,
+		{
+		"period":6,
+		"icon":"cloudy",
+		"icon_url":"http://icons.wxug.com/i/c/k/cloudy.gif",
+		"title":"Saturday",
+		"fcttext":"Overcast. A few flurries or snow showers possible. High near 30F. Winds N at 10 to 15 mph.",
+		"fcttext_metric":"Cloudy. A few flurries or snow showers possible. High -1C. Winds N at 15 to 25 km/h.",
+		"pop":"20"
+		}
+		,
+		{
+		"period":7,
+		"icon":"nt_partlycloudy",
+		"icon_url":"http://icons.wxug.com/i/c/k/nt_partlycloudy.gif",
+		"title":"Saturday Night",
+		"fcttext":"A few clouds. Low 22F. Winds NNW at 10 to 20 mph.",
+		"fcttext_metric":"Clear to partly cloudy. Low -6C. Winds NNW at 15 to 30 km/h.",
+		"pop":"10"
+		}
+		]
+		},
+		"simpleforecast": {
+		"forecastday": [
+		{"date":{
+	"epoch":"1483574400",
+	"pretty":"7:00 PM EST on January 04, 2017",
+	"day":4,
+	"month":1,
+	"year":2017,
+	"yday":3,
+	"hour":19,
+	"min":"00",
+	"sec":0,
+	"isdst":"0",
+	"monthname":"January",
+	"monthname_short":"Jan",
+	"weekday_short":"Wed",
+	"weekday":"Wednesday",
+	"ampm":"PM",
+	"tz_short":"EST",
+	"tz_long":"America/New_York"
+},
+		"period":1,
+		"high": {
+		"fahrenheit":"52",
+		"celsius":"11"
+		},
+		"low": {
+		"fahrenheit":"30",
+		"celsius":"-1"
+		},
+		"conditions":"Partly Cloudy",
+		"icon":"partlycloudy",
+		"icon_url":"http://icons.wxug.com/i/c/k/partlycloudy.gif",
+		"skyicon":"",
+		"pop":0,
+		"qpf_allday": {
+		"in": 0.00,
+		"mm": 0
+		},
+		"qpf_day": {
+		"in": null,
+		"mm": null
+		},
+		"qpf_night": {
+		"in": 0.00,
+		"mm": 0
+		},
+		"snow_allday": {
+		"in": 0.0,
+		"cm": 0.0
+		},
+		"snow_day": {
+		"in": null,
+		"cm": null
+		},
+		"snow_night": {
+		"in": 0.0,
+		"cm": 0.0
+		},
+		"maxwind": {
+		"mph": 37,
+		"kph": 59,
+		"dir": "",
+		"degrees": 0
+		},
+		"avewind": {
+		"mph": 8,
+		"kph": 13,
+		"dir": "NW",
+		"degrees": 309
+		},
+		"avehumidity": 38,
+		"maxhumidity": 0,
+		"minhumidity": 0
+		}
+		,
+		{"date":{
+	"epoch":"1483660800",
+	"pretty":"7:00 PM EST on January 05, 2017",
+	"day":5,
+	"month":1,
+	"year":2017,
+	"yday":4,
+	"hour":19,
+	"min":"00",
+	"sec":0,
+	"isdst":"0",
+	"monthname":"January",
+	"monthname_short":"Jan",
+	"weekday_short":"Thu",
+	"weekday":"Thursday",
+	"ampm":"PM",
+	"tz_short":"EST",
+	"tz_long":"America/New_York"
+},
+		"period":2,
+		"high": {
+		"fahrenheit":"35",
+		"celsius":"2"
+		},
+		"low": {
+		"fahrenheit":"31",
+		"celsius":"-1"
+		},
+		"conditions":"Partly Cloudy",
+		"icon":"partlycloudy",
+		"icon_url":"http://icons.wxug.com/i/c/k/partlycloudy.gif",
+		"skyicon":"",
+		"pop":0,
+		"qpf_allday": {
+		"in": 0.11,
+		"mm": 3
+		},
+		"qpf_day": {
+		"in": 0.00,
+		"mm": 0
+		},
+		"qpf_night": {
+		"in": 0.11,
+		"mm": 3
+		},
+		"snow_allday": {
+		"in": 1.1,
+		"cm": 2.8
+		},
+		"snow_day": {
+		"in": 0.0,
+		"cm": 0.0
+		},
+		"snow_night": {
+		"in": 1.1,
+		"cm": 2.8
+		},
+		"maxwind": {
+		"mph": 20,
+		"kph": 32,
+		"dir": "W",
+		"degrees": 264
+		},
+		"avewind": {
+		"mph": 14,
+		"kph": 23,
+		"dir": "W",
+		"degrees": 264
+		},
+		"avehumidity": 39,
+		"maxhumidity": 0,
+		"minhumidity": 0
+		}
+		,
+		{"date":{
+	"epoch":"1483747200",
+	"pretty":"7:00 PM EST on January 06, 2017",
+	"day":6,
+	"month":1,
+	"year":2017,
+	"yday":5,
+	"hour":19,
+	"min":"00",
+	"sec":0,
+	"isdst":"0",
+	"monthname":"January",
+	"monthname_short":"Jan",
+	"weekday_short":"Fri",
+	"weekday":"Friday",
+	"ampm":"PM",
+	"tz_short":"EST",
+	"tz_long":"America/New_York"
+},
+		"period":3,
+		"high": {
+		"fahrenheit":"36",
+		"celsius":"2"
+		},
+		"low": {
+		"fahrenheit":"25",
+		"celsius":"-4"
+		},
+		"conditions":"Partly Cloudy",
+		"icon":"partlycloudy",
+		"icon_url":"http://icons.wxug.com/i/c/k/partlycloudy.gif",
+		"skyicon":"",
+		"pop":20,
+		"qpf_allday": {
+		"in": 0.00,
+		"mm": 0
+		},
+		"qpf_day": {
+		"in": 0.00,
+		"mm": 0
+		},
+		"qpf_night": {
+		"in": 0.00,
+		"mm": 0
+		},
+		"snow_allday": {
+		"in": 0.0,
+		"cm": 0.0
+		},
+		"snow_day": {
+		"in": 0.0,
+		"cm": 0.0
+		},
+		"snow_night": {
+		"in": 0.0,
+		"cm": 0.0
+		},
+		"maxwind": {
+		"mph": 15,
+		"kph": 24,
+		"dir": "NNW",
+		"degrees": 331
+		},
+		"avewind": {
+		"mph": 11,
+		"kph": 18,
+		"dir": "NNW",
+		"degrees": 331
+		},
+		"avehumidity": 54,
+		"maxhumidity": 0,
+		"minhumidity": 0
+		}
+		,
+		{"date":{
+	"epoch":"1483833600",
+	"pretty":"7:00 PM EST on January 07, 2017",
+	"day":7,
+	"month":1,
+	"year":2017,
+	"yday":6,
+	"hour":19,
+	"min":"00",
+	"sec":0,
+	"isdst":"0",
+	"monthname":"January",
+	"monthname_short":"Jan",
+	"weekday_short":"Sat",
+	"weekday":"Saturday",
+	"ampm":"PM",
+	"tz_short":"EST",
+	"tz_long":"America/New_York"
+},
+		"period":4,
+		"high": {
+		"fahrenheit":"30",
+		"celsius":"-1"
+		},
+		"low": {
+		"fahrenheit":"22",
+		"celsius":"-6"
+		},
+		"conditions":"Overcast",
+		"icon":"cloudy",
+		"icon_url":"http://icons.wxug.com/i/c/k/cloudy.gif",
+		"skyicon":"",
+		"pop":20,
+		"qpf_allday": {
+		"in": 0.00,
+		"mm": 0
+		},
+		"qpf_day": {
+		"in": 0.00,
+		"mm": 0
+		},
+		"qpf_night": {
+		"in": 0.00,
+		"mm": 0
+		},
+		"snow_allday": {
+		"in": 0.0,
+		"cm": 0.0
+		},
+		"snow_day": {
+		"in": 0.0,
+		"cm": 0.0
+		},
+		"snow_night": {
+		"in": 0.0,
+		"cm": 0.0
+		},
+		"maxwind": {
+		"mph": 15,
+		"kph": 24,
+		"dir": "N",
+		"degrees": 353
+		},
+		"avewind": {
+		"mph": 12,
+		"kph": 19,
+		"dir": "N",
+		"degrees": 353
+		},
+		"avehumidity": 39,
+		"maxhumidity": 0,
+		"minhumidity": 0
+		}
+		]
+		}
+	}
+}

@@ -1,0 +1,297 @@
+
+
+{
+  "response": {
+  "version":"0.1",
+  "termsofService":"http://www.wunderground.com/weather/api/d/terms.html",
+  "features": {
+  "geolookup": 1
+  }
+	}
+		,	"location": {
+		"type":"CITY",
+		"country":"US",
+		"country_iso3166":"US",
+		"country_name":"USA",
+		"state":"NY",
+		"city":"Bronx",
+		"tz_short":"EST",
+		"tz_long":"America/New_York",
+		"lat":"40.88000107",
+		"lon":"-73.91000366",
+		"zip":"10463",
+		"magic":"1",
+		"wmo":"99999",
+		"l":"/q/zmw:10463.1.99999",
+		"requesturl":"US/NY/Bronx.html",
+		"wuiurl":"https://www.wunderground.com/US/NY/Bronx.html",
+		"nearby_weather_stations": {
+		"airport": {
+		"station": [
+		{ "city":"New York", "state":"NY", "country":"US", "icao":"KLGA", "lat":"40.77944565", "lon":"-73.88027191" }
+		,{ "city":"Teterboro", "state":"NJ", "country":"US", "icao":"KTEB", "lat":"40.85899353", "lon":"-74.05616760" }
+		,{ "city":"Central Park", "state":"NY", "country":"US", "icao":"KNYC", "lat":"40.77899933", "lon":"-73.96924591" }
+		,{ "city":"New York Downtown Manhattan/w", "state":"NY", "country":"US", "icao":"KJRB", "lat":"40.70121384", "lon":"-74.00902557" }
+		]
+		}
+		,
+		"pws": {
+		"station": [
+		{
+		"neighborhood":"Marble Hill",
+		"city":"Bronx",
+		"state":"NY",
+		"country":"US",
+		"id":"KNYBRONX31",
+		"lat":40.877529,
+		"lon":-73.911461,
+		"distance_km":0,
+		"distance_mi":0
+		},
+		{
+		"neighborhood":"Riverdale",
+		"city":"Bronx",
+		"state":"NY",
+		"country":"US",
+		"id":"KNYBRONX23",
+		"lat":40.884438,
+		"lon":-73.910454,
+		"distance_km":0,
+		"distance_mi":0
+		},
+		{
+		"neighborhood":"Bronx Community College",
+		"city":"New York",
+		"state":"NY",
+		"country":"US",
+		"id":"KNYNEWYO111",
+		"lat":40.857990,
+		"lon":-73.912033,
+		"distance_km":2,
+		"distance_mi":1
+		},
+		{
+		"neighborhood":"The Bronx",
+		"city":"The Bronx",
+		"state":"NY",
+		"country":"US",
+		"id":"KNYTHEBR4",
+		"lat":40.906563,
+		"lon":-73.911827,
+		"distance_km":2,
+		"distance_mi":1
+		},
+		{
+		"neighborhood":"NY Botanical Garden",
+		"city":"Bronx",
+		"state":"NY",
+		"country":"US",
+		"id":"KNYBRONX14",
+		"lat":40.862064,
+		"lon":-73.879601,
+		"distance_km":3,
+		"distance_mi":1
+		},
+		{
+		"neighborhood":"Allerton",
+		"city":"The Bronx",
+		"state":"NY",
+		"country":"US",
+		"id":"KNYTHEBR2",
+		"lat":40.863136,
+		"lon":-73.863152,
+		"distance_km":4,
+		"distance_mi":2
+		},
+		{
+		"neighborhood":"Yonkers - McLean/Woodlawn",
+		"city":"Yonkers",
+		"state":"NY",
+		"country":"US",
+		"id":"KNYYONKE22",
+		"lat":40.909431,
+		"lon":-73.859375,
+		"distance_km":5,
+		"distance_mi":3
+		},
+		{
+		"neighborhood":"East Bronx",
+		"city":"Bronx",
+		"state":"NY",
+		"country":"US",
+		"id":"KNYBRONX25",
+		"lat":40.844784,
+		"lon":-73.864830,
+		"distance_km":5,
+		"distance_mi":3
+		},
+		{
+		"neighborhood":"Upper Manhattan",
+		"city":"New York",
+		"state":"NY",
+		"country":"US",
+		"id":"KNYNEWYO208",
+		"lat":40.835060,
+		"lon":-73.945534,
+		"distance_km":5,
+		"distance_mi":3
+		},
+		{
+		"neighborhood":"Getty Square",
+		"city":"Yonkers",
+		"state":"NY",
+		"country":"US",
+		"id":"KNYYONKE13",
+		"lat":40.933052,
+		"lon":-73.903969,
+		"distance_km":5,
+		"distance_mi":3
+		},
+		{
+		"neighborhood":"Upper Manhattan",
+		"city":"New York",
+		"state":"NY",
+		"country":"US",
+		"id":"KNYNEWYO202",
+		"lat":40.832626,
+		"lon":-73.942627,
+		"distance_km":5,
+		"distance_mi":3
+		},
+		{
+		"neighborhood":"Windsor Road",
+		"city":"Tenafly",
+		"state":"NJ",
+		"country":"US",
+		"id":"KNJTENAF1",
+		"lat":40.914722,
+		"lon":-73.977501,
+		"distance_km":6,
+		"distance_mi":4
+		},
+		{
+		"neighborhood":"Melrose, Bronx",
+		"city":"New York City",
+		"state":"NY",
+		"country":"US",
+		"id":"KNYNEWYO692",
+		"lat":40.817574,
+		"lon":-73.917908,
+		"distance_km":6,
+		"distance_mi":4
+		},
+		{
+		"neighborhood":"Leonia",
+		"city":"Leonia",
+		"state":"NJ",
+		"country":"US",
+		"id":"KNJLEONI2",
+		"lat":40.861549,
+		"lon":-73.989868,
+		"distance_km":7,
+		"distance_mi":4
+		},
+		{
+		"neighborhood":"SAS, Bronx",
+		"city":"New York City",
+		"state":"NY",
+		"country":"US",
+		"id":"KNYNEWYO693",
+		"lat":40.817726,
+		"lon":-73.894440,
+		"distance_km":7,
+		"distance_mi":4
+		},
+		{
+		"neighborhood":"Breite Straße",
+		"city":"Edgewater",
+		"state":"NJ",
+		"country":"US",
+		"id":"KNJEDGEW4",
+		"lat":40.837357,
+		"lon":-73.972336,
+		"distance_km":7,
+		"distance_mi":4
+		},
+		{
+		"neighborhood":"Camberly Gardens-Landscape Contractors",
+		"city":"Tenafly",
+		"state":"NJ",
+		"country":"US",
+		"id":"KNJTENAF2",
+		"lat":40.928074,
+		"lon":-73.968719,
+		"distance_km":7,
+		"distance_mi":4
+		},
+		{
+		"neighborhood":"Upper Manhattan",
+		"city":"New York",
+		"state":"NY",
+		"country":"US",
+		"id":"KNYNEWYO520",
+		"lat":40.815014,
+		"lon":-73.942009,
+		"distance_km":7,
+		"distance_mi":4
+		},
+		{
+		"neighborhood":"",
+		"city":"Bergenfield",
+		"state":"NJ",
+		"country":"US",
+		"id":"MD8340",
+		"lat":40.924500,
+		"lon":-73.981697,
+		"distance_km":7,
+		"distance_mi":4
+		},
+		{
+		"neighborhood":"",
+		"city":"Cresskill",
+		"state":"NJ",
+		"country":"US",
+		"id":"ME7562",
+		"lat":40.940300,
+		"lon":-73.957497,
+		"distance_km":7,
+		"distance_mi":4
+		},
+		{
+		"neighborhood":"",
+		"city":"Teaneck",
+		"state":"NJ",
+		"country":"US",
+		"id":"MD2034",
+		"lat":40.877499,
+		"lon":-74.004204,
+		"distance_km":7,
+		"distance_mi":4
+		},
+		{
+		"neighborhood":"Jefferson Avenue",
+		"city":"Cresskill",
+		"state":"NJ",
+		"country":"US",
+		"id":"KNJCRESS3",
+		"lat":40.937180,
+		"lon":-73.970329,
+		"distance_km":8,
+		"distance_mi":4
+		},
+		{
+		"neighborhood":"Sarah Lawrence College",
+		"city":"Bronxville",
+		"state":"NY",
+		"country":"US",
+		"id":"KNYBRONX19",
+		"lat":40.934727,
+		"lon":-73.844315,
+		"distance_km":8,
+		"distance_mi":4
+		}
+		]
+		}
+		}
+	}
+}
